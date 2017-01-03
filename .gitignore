@@ -1,0 +1,6 @@
+.idea/
+TODO.md
+composer.phar
+phpcs.xml
+phpunit.xml
+vendor/
